@@ -78,3 +78,13 @@
     margin: 25px 0 10px;
     width: 75px;
   }
+
+  .nav-item {
+    margin: 10px 16px;
+  }
+
+  .navbar-brand img {
+    height: 46px;
+    width: 46px;
+    margin: 0 8px 0 0 ;
+  }
